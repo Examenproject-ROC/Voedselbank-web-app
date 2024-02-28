@@ -1,3 +1,11 @@
-* {
-  box-sizing: border-box;
+:root {
+  /* Main project colors */
+  --dark-blue-main-color: var(#284953);
+  --light-blue-main-color: var(#80c9d3);
+  --normal-black-main-color: var(#000000);
+
+  /* Hover colors */
+  --dark-blue-hover-color: var(#1d5363);
+  --light-blue-hover-color: var(#4ec4d4);
+  --normal-black-hover-color: var(#303030);
 }
